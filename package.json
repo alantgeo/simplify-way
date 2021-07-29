@@ -1,0 +1,9 @@
+{
+  "name": "simplify-way",
+  "version": "1.0.0",
+  "description": "Simplify a LineString using JOSM's SimplifyWay algorithm",
+  "main": "index.js",
+  "repository": "git@github.com:alantgeo/simplify-way.git",
+  "author": "Andrew Harvey <andrew@alantgeo.com.au>",
+  "license": "GPL-2.0+"
+}
